@@ -70,6 +70,7 @@ footer	{
 	
 .modal-dialog {
 	position: absolute;
+	width: 600px;
 	left: 50%;
 	margin-left: -300px;
 	top: 50%;
